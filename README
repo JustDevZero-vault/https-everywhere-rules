@@ -1,0 +1,23 @@
+This is a repository of rules for https-everywhere written by myself, due the lack of them, in the original rules.
+
+HTTPS Everywhere is a Firefox extension produced as a collaboration between The Tor Project and the Electronic Frontier Foundation. It encrypts your communications with a number of major websites.
+Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site.
+The HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS. Firefox users can get it by clicking here:
+https://www.eff.org/files/https-everywhere-latest.xpi
+
+You can read more info on their oficial webpage here:
+https://www.eff.org/about
+
+
+
+
+Se trata de un repositorio de reglas para https-everywhere escrito por mí mismo, debido a la falta de estas, en las reglas originales.
+
+HTTPS-everywhere es una extensión para Firefox producida como una colaboración entre el Proyecto Tor y la Electronic Frontier Foundation. Encripta sus comunicaciones con un número de sitios web importantes.
+Muchos sitios en la web ofrecen algún tipo de ayuda para el cifrado a través de HTTPS, pero suele ser difícil de usar. Por ejemplo, suelen entrar en HTTP plano por defecto, o enlazar en las páginas cifradas con enlaces que apuntan a la versión sin cifrar.
+HTTPS-everywhere arregla estos problemas al re-escribir todas las solicitudes a estos sitios a HTTPS. Esta disponible para usuarios de Firefox, o navegadores basados en este. Podéis descargarlo aquí:
+https://www.eff.org/files/https-everywhere-latest.xpi
+
+Podéis leer más información en su página web oficial en:
+https://www.eff.org/about
+

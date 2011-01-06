@@ -1,0 +1,5 @@
+<ruleset name="La Caixa">
+  <target host="lacaixa.es" />
+  <securecookie host="^lacaixa\.es$" name=".*" />
+  <rule from="^http://lacaixa.es" to="https://www.lacaixa.es"/>
+</ruleset>
