@@ -1,5 +1,0 @@
-<ruleset name="Rapidshare">
-  <target host="*.rapidshare.com" />
-  <securecookie host="www\.rapidshare\.com$" name=".*" />
-  <rule from="^http://www.rapidshare.com" to="https://www.rapidshare.com"/>
-</ruleset>
